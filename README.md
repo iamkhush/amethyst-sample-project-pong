@@ -4,12 +4,13 @@ This game is made from using Pong code from Amethyst's book - https://book.ameth
 
 Plan is to add the following features
 
-[] Loading screen ( 3, 2, 1 - game begins )
-[] Start menu / New Game menu which asks for user input for game length.
-[] Pause Menu
+- [ ] Loading screen ( 3, 2, 1 - game begins )
+- [ ] Start menu / New Game menu which asks for user input for game length.
+- [ ] Pause Menu
 
 ## To run the project
 - Setup rust
 - `cargo run`
 
 Screenshot
+![](https://raw.githubusercontent.com/iamkhush/amethyst-sample-project-pong/master/game-screenshot.png)
